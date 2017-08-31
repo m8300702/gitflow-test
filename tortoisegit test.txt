@@ -1,6 +1,4 @@
 tortoisegit commit test
-<<<<<<< HEAD
 toroisegit pull error test
-=======
 github modify test
->>>>>>> e151e3520e3d55cdda07e84d1feb31b1e4daf8ff
+
