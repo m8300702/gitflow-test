@@ -1,3 +1,4 @@
 tortoisegit commit test
 github modify test
 github modify test form PC
+github modify test2 from github
