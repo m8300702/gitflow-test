@@ -1,4 +1,4 @@
 tortoisegit commit test
 toroisegit pull error test
-github modify test
+github modify test2
 
